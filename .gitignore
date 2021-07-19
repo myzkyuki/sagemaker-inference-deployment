@@ -1,0 +1,18 @@
+# Python
+__pycache__
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints
+
+# TensorFlow
+tensorflow
+variables.*
+*.pb
+
+# Working files
+*.tar.gz
+
+
+# IDE
+.vscode
